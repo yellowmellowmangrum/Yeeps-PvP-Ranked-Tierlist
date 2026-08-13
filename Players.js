@@ -37,4 +37,23 @@ export const players = [
       {cat:"Custom", pos:"Low Tier 1", img:"images/All.webp"}
     ]
   },
+  { 
+    id:3, 
+    name:"Lostbamakids", 
+    avatar:"https://yeeplist.page.gd/images/placeholder.png", 
+    title:"Combat Master", 
+    score:70+70+80+60+60+30+20+0+70, 
+    rank:"images/CM.webp",
+    categories:[
+      {cat:"Double Bat", pos:"Low Tier 2", img:"images/Bat.webp"},
+      {cat:"Shield", pos:"Low Tier 2", img:"images/Shield.webp"},
+      {cat:"Freeze Glove", pos:"High Tier 2", img:"images/Freeze.webp"},
+      {cat:"Dagger", pos:"High Tier 3", img:"images/Dagger.webp"},
+      {cat:"Scythe", pos:"High Tier 3", img:"images/Scythe.webp"},
+      {cat:"Fire Axe", pos:"Low Tier 4", img:"images/Axe.webp"},
+      {cat:"Spear", pos:"High Tier 5", img:"images/Spear.webp"},
+      {cat:"Mace", pos:"", img:"images/Mace.webp"},
+      {cat:"Custom", pos:"Low Tier 2", img:"images/All.webp"}
+    ]
+  },
   ];
