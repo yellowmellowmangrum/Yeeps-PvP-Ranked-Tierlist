@@ -37,4 +37,4 @@ export const players = [
       {cat:"Custom", pos:"Low Tier 1", img:"images/All.webp"}
     ]
   },
-  ]
+  ];
