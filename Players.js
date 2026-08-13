@@ -52,7 +52,7 @@ export const players = [
       {cat:"Scythe", pos:"High Tier 3", img:"images/Scythe.webp"},
       {cat:"Fire Axe", pos:"Low Tier 4", img:"images/Axe.webp"},
       {cat:"Spear", pos:"High Tier 5", img:"images/Spear.webp"},
-      {cat:"Mace", pos:"", img:"images/Mace.webp"},
+      {cat:".Mace", pos:"", img:"images/Mace.webp"},
       {cat:"Custom", pos:"Low Tier 2", img:"images/All.webp"}
     ]
   },
