@@ -5,7 +5,7 @@ export const players = [
     avatar:"https://yeeplist.page.gd/images/placeholder.png", 
     title:"", 
     score:0+0+0+0+0+0+0+0, 
-    rank:"https://yeeplist.page.gd/images/Newb.png",
+    rank:"images/CN.webp",
     categories:[
       {cat:"Double Bat", pos:"", img:"https://yeeplist.page.gd/images/TierU.png"},
       {cat:"Shield", pos:"", img:"https://yeeplist.page.gd/images/TierU.png"},
