@@ -1,6 +1,6 @@
 export const players = [
   { 
-    id:0, 
+    id:1, 
     name:"Yellowmellow13", 
     avatar:"https://yeeplist.page.gd/images/placeholder.png", 
     title:"Combat Grandmaster", 
@@ -19,7 +19,7 @@ export const players = [
     ]
   },
   { 
-    id:1, 
+    id:2, 
     name:"Littleeasy1a", 
     avatar:"https://yeeplist.page.gd/images/placeholder.png", 
     title:"Combat Master", 
